@@ -4966,8 +4966,29 @@
   ],
   "admin": [
     {
-      "email": "rajesh@yahoo.com",
+      "email": "admin@yahoo.com",
       "password": "rajesh"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@yahoo.com",
+      "name": "rajesh kumar",
+      "age": 24,
+      "city": "rachi",
+      "address": "lore10",
+      "pincode": 123123
+    }
+  ],
+  "orders": [
+    {
+      "image": "https://images.coach.com/is/image/Coach/c7340_ss_a0?$desktopProductTile$",
+      "title": "Cary Watch, 34 Mm",
+      "price": 423,
+      "category": "watch",
+      "id": 335,
+      "email": "admin@yahoo.com",
+      "transection_id": 4545611164
     }
   ]
 }
